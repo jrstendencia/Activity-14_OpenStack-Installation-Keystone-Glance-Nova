@@ -1,0 +1,3 @@
+- name: Installing glance
+  yum:
+    name: openstack-glance
